@@ -15,4 +15,3 @@ class Solution {
         inorder(node.right, result);  // Right
     }
 }
-
