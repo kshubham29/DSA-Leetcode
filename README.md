@@ -12,9 +12,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/kshubham29/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0704-binary-search](https://github.com/kshubham29/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/kshubham29/DSA-Leetcode/tree/main/0704-binary-search/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/kshubham29/DSA-Leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
